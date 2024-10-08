@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Atividade2-DesignPatterns", "Atividade2-DesignPatterns.pyproj", "{9AC508E6-D732-4932-B948-24FA5D42897B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC508E6-D732-4932-B948-24FA5D42897B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC508E6-D732-4932-B948-24FA5D42897B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {620A32D5-5439-48B7-AF5E-EF18BB707DBB}
+	EndGlobalSection
+EndGlobal
